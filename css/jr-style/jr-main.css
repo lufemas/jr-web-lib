@@ -306,6 +306,7 @@ margin-bottom: 1.25rem;
 
   .jr.flex-m-row{
     display: flex;
+    flex-direction: row;
     flex-wrap: nowrap;
   }
   
